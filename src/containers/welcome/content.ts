@@ -1,6 +1,6 @@
 const content = {
-  tagline: 'Design & Develop Your Own Application',
-  title: 'DYO APP',
+  tagline: 'Design, Develop & Deliver',
+  title: 'SAY',
   subtitle: 'Solution Architect, Tailor-Made System, Web & Mobile App.',
 };
 

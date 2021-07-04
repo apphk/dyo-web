@@ -4,9 +4,9 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `DYO APP`,
-    description: `Design Your Own Application`,
-    author: `Polychronis Papadakis`,
+    title: `SAY`,
+    description: `Design & Develop Your Own Application`,
+    author: `Kato`,
   },
   plugins: [
     `gatsby-transformer-sharp`,
